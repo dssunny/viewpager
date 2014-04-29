@@ -42,7 +42,7 @@
     android:value="AIzaSyAjdCH6HtHZM3KFfW9qu4duqDnmJLqCw_M"/>
         
         <activity
-            android:name="com.example.fragmentviewpager.MainActivity"
+            android:name="com.example.fragmentviewpager.ClsLauncher"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
